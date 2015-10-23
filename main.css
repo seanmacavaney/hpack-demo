@@ -1,0 +1,10 @@
+table {
+  line-height: 1.2;
+  border-collapse: separate;
+  border-spacing: 8px 5px;
+  font-family: monospace;
+}
+
+th {
+  border-bottom: 1px solid #444;
+}
